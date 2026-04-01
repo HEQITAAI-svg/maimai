@@ -1,0 +1,12 @@
+llm:
+  base_url: "1"
+  api_key: "VYRCt"
+  model: "claude-sonnet-4-6"
+
+search:
+  max_results_per_type: 5
+  github_token: ""
+
+output:
+  dir: ./output
+  language: zh
